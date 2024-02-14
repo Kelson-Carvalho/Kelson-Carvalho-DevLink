@@ -1,8 +1,8 @@
 <h1 align="center"> KC-Dev-Links </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"></a>
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. e refeito por Kelson Carvalho com base nas aulas do Mayk Brito <br/>
+<a href=""></a>
 </p>
 
 
@@ -31,4 +31,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by KC-Dev-Links
+Feito com ♥ Kelson Carvalho
