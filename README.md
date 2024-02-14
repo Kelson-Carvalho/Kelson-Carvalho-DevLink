@@ -7,7 +7,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 
 <p align="center">
-  <img alt="projeto KC-Dev-Links" src="https://github.com/Kelson-Carvalho/KF-Dev-Links/blob/main/assets/Cover.png?raw=true" width="100%">
+  <img alt="projeto KC-Dev-Links" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
