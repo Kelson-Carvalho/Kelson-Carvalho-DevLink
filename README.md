@@ -22,8 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O KC-Dev-Links é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://kelson-carvalho.github.io/Kelson-Carvalho-DevLink/)
-
+- <p><a href="https://kelson-carvalho.github.io/Kelson-Carvalho-DevLink/" target="_blank">Clique aqui para seguir para o projeto finalizado</a></p>
 
 ## Licença
 
